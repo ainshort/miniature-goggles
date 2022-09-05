@@ -1,2 +1,3 @@
 # miniature-goggles
 
+TEST
